@@ -1,0 +1,4 @@
+python==3.8.10
+Flask-Tortoise==0.0.2
+flask==3.20.2
+dotenv==1.0.1
